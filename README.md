@@ -1,11 +1,11 @@
 # chatbot
 
-## performance(not good)
+## performance
 
         input: [UNK] 有 洩 漏 過 誰 的 個 資 嗎 ?  
         target: 小 時 候 不 念 書 長 大 當 記 者 沒 法 度  
         chatbot: 的 的 的 的 不 的 不 的 不 一 的 的 不 的 不 不 的 的
-
+not good..
 ## model
 
 * transformer :
